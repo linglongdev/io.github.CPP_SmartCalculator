@@ -1,1 +1,1 @@
-# io.github.CPP_SmartCalculatort
+# io.github.CPP_SmartCalculator
